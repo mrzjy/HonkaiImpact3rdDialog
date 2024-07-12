@@ -11,7 +11,7 @@ For now, this repo simply copies a fan-edit **English** game lore transcription 
 
 **All credits go to the authors!**
 
-- Example snippet
+- Example snippet (Full content is in data folder)
 
 ```
 ...
